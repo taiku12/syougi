@@ -124,7 +124,9 @@ void Main()
 
 		// 各マスの接続状況を管理するデータ構造
 		DisjointSet<int32> ds{ states.num_elements() };
-		
+
+
+
 	}
 }
 
